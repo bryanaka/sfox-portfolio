@@ -1,6 +1,5 @@
 import { Router } from 'hyper-express';
-import { getNativeBalance } from './routes/v1/balances/get-native-balance';
-import BalanceActions from './routes/v1/balances';
+import BalanceActions from './routes/actions/v1/balances';
 
 
 export function createAppRouter() {
