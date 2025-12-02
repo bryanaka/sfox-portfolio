@@ -3,11 +3,8 @@
 
 - address for which the balance is for
 - the currency symbol for the balance
-- the chain id for the given response
 
 Feel free to include any additional information you would like
-
-(caching?)
 
 2. We would like to design an endpoint that feels similar to the balances endpoint for any arbitary ERC-20 token. Please implement that endpoint
 
